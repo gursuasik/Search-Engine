@@ -1,0 +1,10 @@
+D:\Documents\Edit\Works\Visual Studio\C#\Web\ASP.NET\SearchEngine\SearchEngine\bin\SearchEngine.dll
+D:\Documents\Edit\Works\Visual Studio\C#\Web\ASP.NET\SearchEngine\SearchEngine\bin\SearchEngine.pdb
+D:\Documents\Edit\Works\Visual Studio\C#\Web\ASP.NET\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csprojResolveAssemblyReference.cache
+D:\Documents\Edit\Works\Visual Studio\C#\Web\ASP.NET\SearchEngine\SearchEngine\obj\Debug\SearchEngine.dll
+D:\Documents\Edit\Works\Visual Studio\C#\Web\ASP.NET\SearchEngine\SearchEngine\obj\Debug\SearchEngine.pdb
+C:\Users\Gürsu\Desktop\SearchEngine\SearchEngine\bin\SearchEngine.dll
+C:\Users\Gürsu\Desktop\SearchEngine\SearchEngine\bin\SearchEngine.pdb
+C:\Users\Gürsu\Desktop\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csprojResolveAssemblyReference.cache
+C:\Users\Gürsu\Desktop\SearchEngine\SearchEngine\obj\Debug\SearchEngine.dll
+C:\Users\Gürsu\Desktop\SearchEngine\SearchEngine\obj\Debug\SearchEngine.pdb
